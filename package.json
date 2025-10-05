@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Treinamento para implementar um clone do https://www.tabnews.com.br/",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^14.2.33",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
